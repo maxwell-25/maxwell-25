@@ -1,4 +1,4 @@
-## A bit about me
+# A bit about me
 - 👋 Hi, I’m @maxwell-25
 - 👀 I’m interested in ... Python and software engineering
 - 🌱 I’m currently learning ... Git and Django
